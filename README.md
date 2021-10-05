@@ -1,1 +1,2 @@
-#netflix clone 
+<h1>NETFLIX CLONE</h1>
+
